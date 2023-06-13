@@ -1,0 +1,18 @@
+C:\Users\Kingo\AppData\Local\Temporary Projects\GB Proxy Grabber\bin\Debug\GB Proxy Grabber.exe
+C:\Users\Kingo\AppData\Local\Temporary Projects\GB Proxy Grabber\bin\Debug\GB Proxy Grabber.pdb
+C:\Users\Kingo\AppData\Local\Temporary Projects\GB Proxy Grabber\bin\Debug\GB Proxy Grabber.xml
+C:\Users\Kingo\AppData\Local\Temporary Projects\GB Proxy Grabber\obj\x86\Debug\GB_Proxy_Grabber.Form1.resources
+C:\Users\Kingo\AppData\Local\Temporary Projects\GB Proxy Grabber\obj\x86\Debug\GB_Proxy_Grabber.Resources.resources
+C:\Users\Kingo\AppData\Local\Temporary Projects\GB Proxy Grabber\obj\x86\Debug\GB Proxy Grabber.vbproj.GenerateResource.Cache
+C:\Users\Kingo\AppData\Local\Temporary Projects\GB Proxy Grabber\obj\x86\Debug\GB Proxy Grabber.exe
+C:\Users\Kingo\AppData\Local\Temporary Projects\GB Proxy Grabber\obj\x86\Debug\GB Proxy Grabber.xml
+C:\Users\Kingo\AppData\Local\Temporary Projects\GB Proxy Grabber\obj\x86\Debug\GB Proxy Grabber.pdb
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\obj\x86\Debug\GB Proxy Grabber.exe
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\obj\x86\Debug\GB Proxy Grabber.xml
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\obj\x86\Debug\GB Proxy Grabber.pdb
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\bin\Debug\GB Proxy Grabber.exe
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\bin\Debug\GB Proxy Grabber.pdb
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\bin\Debug\GB Proxy Grabber.xml
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\obj\x86\Debug\GB_Proxy_Grabber.Form1.resources
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\obj\x86\Debug\GB_Proxy_Grabber.Resources.resources
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\obj\x86\Debug\GB Proxy Grabber.vbproj.GenerateResource.Cache

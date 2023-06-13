@@ -1,0 +1,9 @@
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\bin\Release\GB Proxy Grabber.exe
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\bin\Release\GB Proxy Grabber.pdb
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\bin\Release\GB Proxy Grabber.xml
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\obj\x86\Release\GB_Proxy_Grabber.Form1.resources
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\obj\x86\Release\GB_Proxy_Grabber.Resources.resources
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\obj\x86\Release\GB Proxy Grabber.vbproj.GenerateResource.Cache
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\obj\x86\Release\GB Proxy Grabber.exe
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\obj\x86\Release\GB Proxy Grabber.xml
+E:\vb\VS\GB Proxy Grabber\GB Proxy Grabber\obj\x86\Release\GB Proxy Grabber.pdb
